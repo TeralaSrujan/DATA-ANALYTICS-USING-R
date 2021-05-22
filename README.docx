@@ -1,5 +1,5 @@
 https://www.kaggle.com/c/ieee-fraud-detection
 The column names have been changed manually for different data sets described as id.1 and id_1 which means same.
-As large data set we have issue in one time compilation so please compile code as partitions sir.
+As large data set we have issue in one time compilation so please compile code as partitions .
 
   
